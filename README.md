@@ -18,7 +18,11 @@ I’m a passionate and dynamic tech enthusiast specializing in <strong>Frontend 
 </p>
 
 <p>
-With real-world experience from internships at <strong>Salzer Technologies</strong> and <strong>Nitro Technology</strong>, I bring both hardware and software synergy. A natural mentor, I’ve led 15+ teams, been a club president, and earned laurels like <strong>Hackathon Finalist</strong> and <strong>Kanam25 Winner</strong>.
+One of my proudest innovations is the <strong>Silent Eye Drone</strong>, a surveillance system designed for real-time monitoring in sensitive areas. I also engineered the <strong>Caterpillar Depth-Sensing Project</strong>, utilizing AI and sensor fusion to detect terrain variations—showcasing my ability to merge electronics with intelligent systems.
+</p>
+
+<p>
+With real-world experience from internships at <strong>Salzer Technologies</strong> and <strong>Nitro Technology</strong>, I bring both hardware and software synergy. A natural mentor, I’ve led 15+ teams, been a club president, and earned laurels like <strong>Hackathon Finalist</strong> and <strong>Kanam25 Winner</strong>. I’m known for my leadership, curiosity, and hands-on innovation in tech.
 </p>
 
 ---
@@ -31,7 +35,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rohithan-01&theme=onedark&row=2&column=3" alt="Trophies" />
@@ -39,7 +43,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohithan-01&show_icons=true&theme=tokyonight" alt="Stats" />
@@ -53,7 +57,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohithan-pd-98a905255/" target="_blank">
@@ -66,7 +70,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### 💬 Words I Follow
+### Words I Follow
 
 <p align="center"><em>"I don't want to be an expert to do something great. I just want to learn......!"</em></p>
 
