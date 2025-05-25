@@ -1,5 +1,3 @@
-<!-- Advanced GitHub Profile README for Rohithan PD -->
-
 <h1 align="center">
   Hi 👋, I'm <span style="color:#00FFFF">Rohithan PD</span>
 </h1>
@@ -11,23 +9,17 @@
 
 ---
 
-### About Me
+## About Me
 
-<p>
-I’m a passionate and dynamic tech enthusiast specializing in <strong>Frontend Development</strong> (React, Tailwind CSS, HTML, JS), <strong>Full Stack with MERN</strong>, and proficient in <strong>Java & Spring Boot</strong>. I’ve got hands-on expertise in <strong>AI/ML, deep sensing tech, and embedded systems</strong>. From building a full-stack pet adoption platform to crafting Dingo—a smart robot with Alexa integration—I thrive on innovation. 
-</p>
+I’m a passionate and dynamic tech enthusiast specializing in **Frontend Development** (React, Tailwind CSS, HTML, JS), **Full Stack with MERN**, and proficient in **Java & Spring Boot**. I’ve got hands-on expertise in **AI/ML, deep sensing tech, and embedded systems**. From building a full-stack pet adoption platform to crafting Dingo—a smart robot with Alexa integration—I thrive on innovation. 
 
-<p>
-One of my proudest innovations is the <strong>Silent Eye Drone</strong>, a surveillance system designed for real-time monitoring in sensitive areas. I also engineered the <strong>Caterpillar Depth-Sensing Project</strong>, utilizing AI and sensor fusion to detect terrain variations—showcasing my ability to merge electronics with intelligent systems.
-</p>
+One of my proudest innovations is the **Silent Eye Drone**, a surveillance system designed for real-time monitoring in sensitive areas. I also engineered the **Caterpillar Depth-Sensing Project**, utilizing AI and sensor fusion to detect terrain variations—showcasing my ability to merge electronics with intelligent systems.
 
-<p>
-With real-world experience from internships at <strong>Salzer Technologies</strong> and <strong>Nitro Technology</strong>, I bring both hardware and software synergy. A natural mentor, I’ve led 15+ teams, been a club president, and earned laurels like <strong>Hackathon Finalist</strong> and <strong>Kanam25 Winner</strong>. I’m known for my leadership, curiosity, and hands-on innovation in tech.
-</p>
+With real-world experience from internships at **Salzer Technologies** and **Nitro Technology**, I bring both hardware and software synergy. A natural mentor, I’ve led 15+ teams, been a club president, and earned laurels like **Hackathon Finalist** and **Kanam25 Winner**. I’m known for my leadership, curiosity, and hands-on innovation in tech.
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,nodejs,mongodb,java,spring,python,c,cpp,matlab,arduino,git,github,mysql,vscode,figma,bootstrap" alt="Tech Stack" />
@@ -35,7 +27,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rohithan-01&theme=onedark&row=2&column=3" alt="Trophies" />
@@ -43,7 +35,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohithan-01&show_icons=true&theme=tokyonight" alt="Stats" />
@@ -57,7 +49,7 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohithan-pd-98a905255/" target="_blank">
@@ -70,8 +62,6 @@ With real-world experience from internships at <strong>Salzer Technologies</stro
 
 ---
 
-### Words I Follow
+## Words I Follow
 
 <p align="center"><em>"I don't want to be an expert to do something great. I just want to learn......!"</em></p>
-
----
