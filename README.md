@@ -26,15 +26,6 @@ With real-world experience from internships at **Salzer Technologies** and **Nit
 </p>
 
 ---
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohithan-01&theme=onedark&row=2&column=3" alt="Trophies" />
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -65,3 +56,5 @@ With real-world experience from internships at **Salzer Technologies** and **Nit
 ## Words I Follow
 
 <p align="center"><em>"I don't want to be an expert to do something great. I just want to learn......!"</em></p>
+
+---
