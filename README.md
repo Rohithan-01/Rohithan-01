@@ -26,6 +26,15 @@ With real-world experience from internships at **Salzer Technologies** and **Nit
 </p>
 
 ---
+
+
+
+##  GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithan-01&theme=radical" alt="Profile Summary" />
+</p>
+
 ## GitHub Stats
 
 <p align="center">
@@ -58,3 +67,12 @@ With real-world experience from internships at **Salzer Technologies** and **Nit
 <p align="center"><em>"I don't want to be an expert to do something great. I just want to learn......!"</em></p>
 
 ---
+
+<p align="center">
+  <img src="https://badgen.net/badge/visitors/2.3K/green?icon=eye" alt="Visitors" />
+  <img src="https://badgen.net/badge/followers/150/blue?icon=github" alt="Followers" />
+  <img src="https://badgen.net/badge/issues/5/red" alt="Issues" />
+</p>
+
+
+
