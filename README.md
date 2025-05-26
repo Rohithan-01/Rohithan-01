@@ -29,6 +29,7 @@ With real-world experience from internships at **Salzer Technologies** and **Nit
 
 
 
+
 ##  GitHub Profile Summary
 
 <p align="center">
